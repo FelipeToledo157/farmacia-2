@@ -4,12 +4,9 @@ Sistema desenvolvido em Python para gerenciamento de medicamentos em estoque.
 
  Funcionalidades
 
-Cadastrar medicamentos
-Listar medicamentos cadastrados
-Buscar medicamentos pelo nome
-Informar nome, categoria e quantidade em estoque
-Validar a quantidade informada
-Salvar os medicamentos em um arquivo CSV
+Cadastrar medicamentos, Listar medicamentos cadastrados, Buscar medicamentos pelo nome, Informar nome, categoria e quantidade em estoque
+, Validar a quantidade informada
+, Salvar os medicamentos em um arquivo CSV
 
 Tecnologias utilizadas
 
@@ -21,8 +18,6 @@ Visual Studio Code
 
 Estrutura do projeto
 
-text
-Felipe Toledo - 2D/
 farmacia/
     main.py
     medicamentos.csv
